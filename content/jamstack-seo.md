@@ -1,6 +1,7 @@
 ---
 layout: two-cols
-background: accent1.png
+background: accent2.png
+class: text-background-gray 
 ---
 
 # **JAMStack - Promises**
@@ -11,14 +12,14 @@ background: accent1.png
 - Availability
 - Maintainability
 - Portability
-- <span class="text-accent-3 font-extrabold bg-background-ionos rounded p-2 -m-2">SEO</span>
+- <span class="text-background-gray font-extrabold bg-background-ionos rounded p-2 -m-2">SEO</span>
 - Developer Experience
 - Editor Experience
 
 ::right::
 
 <div class="flex flex-col h-full justify-center">
-  <div class="flex items-center m-4 p-4 rounded-lg bg-accent-3 leading-normal text-justify">
+  <div class="flex items-center m-4 p-4 rounded-lg bg-background-ionos leading-normal text-background-gray">
     Searchengines can easily ingest the generated HTML of the JAMStack site this eliminates typical problems associated with improving website SEO.
   </div>
 </div>

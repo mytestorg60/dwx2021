@@ -1,6 +1,7 @@
 ---
 layout: two-cols
-background: accent1.png
+background: accent2.png
+class: text-background-gray 
 ---
 
 # **JAMStack - Promises**
@@ -12,16 +13,16 @@ background: accent1.png
 - Maintainability
 - Portability
 - SEO
-- <span class="text-accent-3 font-extrabold bg-background-ionos rounded p-2 -m-2">Developer Experience</span>
+- <span class="text-background-gray font-extrabold bg-background-ionos rounded p-2 -m-2">Developer Experience</span>
 - Editor Experience
 
 ::right::
 
 <div class="flex flex-col h-full justify-center">
-  <div class="flex items-center m-4 p-4 rounded-lg bg-accent-3 leading-normal text-justify">
+  <div class="flex items-center m-4 p-4 rounded-lg bg-background-ionos leading-normal text-background-gray">
    There are lots of frameworks in diverse languages to choose to generate your JAMStack site. 
   </div>
-  <div class="flex items-center m-4 p-4 rounded-lg bg-accent-3 leading-normal text-justify">
+  <div class="flex items-center m-4 p-4 rounded-lg bg-background-ionos leading-normal text-background-gray">
    CI and Versioning are easy to combine with JAMStack. 
   </div>
 </div>

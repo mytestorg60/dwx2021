@@ -1,7 +1,7 @@
 ---
-background: accent1.png
+background: accent2.png
 layout: two-cols
-class: flex flex-col h-full justify-center text-background-black
+class: flex flex-col h-full justify-center text-background-gray
 preload: false
 ---
 

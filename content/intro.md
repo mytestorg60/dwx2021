@@ -1,8 +1,8 @@
 ---
 layout: image-right
-background: accent1.png
+background: accent2.png
 image: ./WWW-Project.png
-class: flex flex-col h-full justify-center text-background-black
+class: flex flex-col h-full justify-center text-background-gray
 ---
 
 # August 6, 1991 the first website ever went live

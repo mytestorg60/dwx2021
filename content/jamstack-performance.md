@@ -1,11 +1,12 @@
 ---
 layout: two-cols
-background: accent1.png
+background: accent2.png
+class: text-background-gray 
 ---
 
 # **JAMStack - Promises**
 
-- <span class="text-accent-3 font-extrabold bg-background-ionos rounded p-2 -m-2">Performance</span>
+- <span class="text-background-gray font-extrabold bg-background-ionos rounded p-2 -m-2">Performance</span>
 - Security
 - Scale
 - Availability
@@ -18,7 +19,7 @@ background: accent1.png
 ::right::
 
 <div class="flex flex-col h-full justify-center">
-  <div class="flex items-center m-4 p-4 rounded-lg bg-accent-3 leading-normal text-justify">
+  <div class="flex items-center m-4 p-4 rounded-lg bg-background-ionos leading-normal text-background-gray">
   Since rendering is done at built time and not at runtime, the time to first byte and consequently the time to first meaningful paint (FMP) is much shorter. In addition static sites are predestined for CDN, that all over the world fast loading times are possible.
   </div>
 </div>
