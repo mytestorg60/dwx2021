@@ -6,15 +6,14 @@ class: flex flex-col content-start h-full text-background-black
 clicks: 3
 ---
 
-<h1 class="text-center text-background-black "> Architecture of the LAMP-STACK </h1>
+<h1 class="text-center"> Architecture of the LAMP-Stack</h1>
 
 <div class="flex items-center flex-col  text-center grow-0 ">
-<img v-if="$slidev.nav.clicks === 1" src="/lamp1.svg">
-<img v-if="$slidev.nav.clicks === 2" src="/lamp2.svg">
-<img v-if="$slidev.nav.clicks === 3" src="/lamp3.svg">
-
-
-
+  <div class="rounded-xl bg-accent-5 p-2">CLIENT</div>
+  <mdi:arrow-down-bold class="fill-current text-sm" v-click="1"/>
+  <div class="rounded-xl bg-accent-3 p-2" v-click="1">WEBSERVER</div>
+  <mdi:arrow-down-bold class="fill-current text-sm" v-click="2"/>
+  <div class="rounded-xl bg-accent-2 p-2" v-click="2">DATABASE</div>
 </div>
 
 <style>
