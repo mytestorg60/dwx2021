@@ -25,14 +25,15 @@ export default {
       text-sm
     "
   >
-    <div class="w-1/2 text-left flex justify-start items-center">
+    <div class="w-1/3 text-left flex justify-start items-center">
       <div><a href="https://ionos.com" target="_blank">{{ title }}</a></div>
-      <mdi:remove class="fill-current text-sm"/>
-      <div >
+    </div>
+        <div class="w-1/3 flex justify-center">
+          <div >
         <a href="https://www.ionos.de/impressum" target="_blank">Imprint</a>
       </div>
-    </div>
-    <div class="w-1/2 flex justify-end">
+        </div>
+    <div class="w-1/3 flex justify-end">
       <div
         v-for="type in social"
         :key="type.type"
