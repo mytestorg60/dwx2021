@@ -32,8 +32,12 @@ class: flex flex-col h-full justify-center
 </div>
 
 
+<IonosLogo class="text-background-gray"
+  left="true"
+/>
+
 <Footer class="text-background-gray"
-  title="IONOS SE"
+  title="Copyright © 1&1 IONOS SE 2021"
   :social="[
     { type: 'gh', username: 'ionos-deploy-now' }
   ]"

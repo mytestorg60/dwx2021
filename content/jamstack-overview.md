@@ -1,5 +1,5 @@
 ---
-layout: cover
+layout: default
 background: accent2.png
 class: flex flex-col h-full justify-center text-background-gray 
 preload: false
@@ -39,11 +39,13 @@ preload: false
 </div>
 
 <Footer
-  title="IONOS SE"
+  title="Copyright © 1&1 IONOS SE 2021"
   :social="[
     { type: 'gh', username: 'ionos-deploy-now' }
   ]"
 />
+
+<IonosLogo left="false" />
 
 <!--
 -->

@@ -11,7 +11,7 @@ Over the years web technologies evolved. A great variety of technologies was bui
 
 Webpages became more and more dynamic and the html was generated for each request via some programming language. Databases started to be an essential part of the website infrastructure. 
 
-
+<IonosLogo left="false" />
 
 ::right::
 
@@ -68,7 +68,7 @@ Webpages became more and more dynamic and the html was generated for each reques
 </div>
 
 <Footer
-  title="IONOS SE"
+  title="Copyright © 1&1 IONOS SE 2021"
   :social="[
     { type: 'gh', username: 'ionos-deploy-now' }
   ]"

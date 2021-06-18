@@ -16,7 +16,7 @@ The static web returns
 </h2>
 
 <Footer
-  title="IONOS SE"
+  title="Copyright © 1&1 IONOS SE 2021"
   :social="[
     { type: 'gh', username: 'ionos-deploy-now' }
   ]"

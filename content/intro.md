@@ -1,5 +1,5 @@
 ---
-layout: image-right
+layout: two-cols
 background: accent2.png
 image: ./WWW-Project.png
 class: flex flex-col h-full justify-center text-background-gray
@@ -15,13 +15,19 @@ It outlined how to create Web pages and explained more about hypertext.
 
 No doubt the journey of the WWW started with static content first.
 
+<IonosLogo left="false" />
+
 <Footer
-  title="IONOS SE"
+  title="Copyright © 1&1 IONOS SE 2021"
   :social="[
     { type: 'gh', username: 'ionos-deploy-now' }
   ]"
 />
 
+
+::right::
+
+<img src="/WWW-Project.png" class="p-6">
 <!--
 -->
 

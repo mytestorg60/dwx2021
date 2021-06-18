@@ -26,10 +26,10 @@ export default {
     "
   >
     <div class="w-1/3 text-left flex justify-start items-center">
-      <a href="https://ionos.com" target="_blank">{{ title }}</a>
+      
     </div>
     <div class="w-1/3 flex justify-center">
-      <div
+     <!-- <div
         v-for="type in social"
         :key="type.type"
         class="flex justify-center items-center ml-4"
@@ -42,9 +42,11 @@ export default {
         >
           <LogoIcon :type="type.type" />
         </a>
-      </div>
+      </div> -->
     </div>
     <div class="w-1/3 flex justify-end">
+      <a href="https://ionos.com" target="_blank">{{ title }}</a>
+      <mdi:minus class="fill-current text-sm"/>
       <a href="https://www.ionos.de/impressum" target="_blank">Imprint</a>
     </div>
   </div>
