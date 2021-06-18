@@ -26,14 +26,9 @@ export default {
     "
   >
     <div class="w-1/3 text-left flex justify-start items-center">
-      <div><a href="https://ionos.com" target="_blank">{{ title }}</a></div>
+      <a href="https://ionos.com" target="_blank">{{ title }}</a>
     </div>
-        <div class="w-1/3 flex justify-center">
-          <div >
-        <a href="https://www.ionos.de/impressum" target="_blank">Imprint</a>
-      </div>
-        </div>
-    <div class="w-1/3 flex justify-end">
+    <div class="w-1/3 flex justify-center">
       <div
         v-for="type in social"
         :key="type.type"
@@ -48,6 +43,9 @@ export default {
           <LogoIcon :type="type.type" />
         </a>
       </div>
+    </div>
+    <div class="w-1/3 flex justify-end">
+      <a href="https://www.ionos.de/impressum" target="_blank">Imprint</a>
     </div>
   </div>
 </template>
