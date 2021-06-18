@@ -32,9 +32,7 @@ class: flex flex-col h-full justify-center
 </div>
 
 
-<IonosLogo class="text-background-gray"
-  left="true"
-/>
+<IonosLogo left="true" />
 
 <Footer class="text-background-gray"
   title="Copyright © 1&1 IONOS SE 2021"
