@@ -3,6 +3,7 @@ layout: cover
 background: accent1.png
 image: ./WWW-Project.png
 class: flex flex-col content-start h-full text-background-black
+clicks: 3
 ---
 
 <h1 class="text-center"> Architecture of the LAMP-Stack</h1>
