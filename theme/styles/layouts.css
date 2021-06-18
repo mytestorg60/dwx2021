@@ -66,5 +66,5 @@ a { border-style: none !important;}
   font-family: "BTTF";
   font-style: normal;
   font-weight: normal;
-  src: local("BTTF"), url("fonts/BTTF.woff") format("woff");
+  src: local("BTTF"), url("/fonts/BTTF.woff") format("woff");
 }
