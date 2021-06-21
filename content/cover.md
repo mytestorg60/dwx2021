@@ -1,6 +1,6 @@
 ---
 layout: cover
-background: https://images.unsplash.com/photo-1483401757487-2ced3fa77952?crop=entropy&w=1920
+background: '#001b41'
 class: flex flex-col h-full justify-center text-center text-background-gray text-a
 ---
 
