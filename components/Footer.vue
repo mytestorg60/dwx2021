@@ -7,14 +7,28 @@ export default {
     social: {
       type: Array,
     },
+    rotate: {
+      type: String,
+      default: 'false'
+    }
   },
 };
 </script>
 
 <template>
   <div
-    v-if="title || social"
+    v-if="rotate !== 'true'"
     class="flex absolute w-full bottom-0 right-2 py-0.5 px-4 text-sm"
+  >
+    <div class="w-full flex justify-end">
+      <a href="https://ionos.com" target="_blank">{{ title }}</a>
+      <mdi:minus class="fill-current text-sm" />
+      <a href="https://www.ionos.de/impressum" target="_blank">Imprint</a>
+    </div>
+  </div>
+  <div
+      v-else
+      class="flex absolute w-full  py-0.5 px-4 text-sm transform -rotate-90 -bottom-210px -right-470px"
   >
     <div class="w-full flex justify-end">
       <a href="https://ionos.com" target="_blank">{{ title }}</a>

@@ -61,3 +61,6 @@ src: ./content/jamstack-editor-experience.md
 ---
 src: ./content/conclusion.md
 ---
+---
+src: ./content/deployNow.md
+---
