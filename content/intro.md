@@ -9,9 +9,9 @@ class: flex flex-col h-full justify-center text-background-gray
 
 The site was dedicated to information on the World Wide Web project and was made by Tim Berners-Lee.
 
-The first web page address was [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)
+The first webpage address was [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)
 
-It outlined how to create Web pages and explained more about hypertext.
+It outlined how to create webpages and explained more about hypertext.
 
 No doubt the journey of the WWW started with static content first.
 
