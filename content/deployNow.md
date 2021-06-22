@@ -6,7 +6,7 @@ class: flex flex-col h-full  text-center text-background-gray
 
 # Deploy smarter. Deploy faster. Deploy Now.
 
-<div class="text-accent-1">Git push your web project and got live instantly.</div>
+<div class="text-accent-1">Git push your web project and go live instantly.</div>
 
 <Footer
   rotate="true"
