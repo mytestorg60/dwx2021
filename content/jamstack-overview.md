@@ -1,6 +1,6 @@
 ---
 layout: default
-background: accent2.png
+background: '#3b9cda'
 class: flex flex-col h-full justify-center text-background-gray 
 preload: false
 ---

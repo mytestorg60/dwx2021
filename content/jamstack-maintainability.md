@@ -1,6 +1,6 @@
 ---
 layout: two-cols
-background: accent2.png
+background: '#3b9cda'
 class: text-background-gray 
 ---
 

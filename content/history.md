@@ -1,5 +1,5 @@
 ---
-background: accent2.png
+background: '#3b9cda'
 layout: two-cols
 class: flex flex-col h-full justify-center text-background-gray
 preload: false

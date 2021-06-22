@@ -1,6 +1,6 @@
 ---
 layout: default
-background: accent2.png
+background: '#3b9cda'
 image: ./WWW-Project.png
 class: flex flex-col content-start h-full text-background-gray
 clicks: 3
