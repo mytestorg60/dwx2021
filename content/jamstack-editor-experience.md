@@ -20,7 +20,7 @@ class: text-background-gray
 
 <div class="flex flex-col h-full justify-center">
   <div class="flex items-center m-4 p-4 rounded-lg bg-background-ionos leading-normal text-background-gray">
-    Depending on the used framework and the technology the can vary a lot. 
+    Depending on the used framework and the technology this varies a lot. 
   </div>
 
 </div>
