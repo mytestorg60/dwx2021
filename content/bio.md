@@ -9,7 +9,7 @@ class: flex flex-col h-full justify-center
   Gängel
   </div>
   <div class="pt-4">
-    <div class="flex pb-2"><mdi-account-circle class="fill-current text-accent-1 mr-2"/>Senior Software-Developer @ IONOS SE</div>
+    <div class="flex pb-2"><mdi-account-circle class="fill-current text-accent-1 mr-2"/>Senior Software Developer @ IONOS</div>
     <div class="flex pb-2"><mdi-google-maps class="fill-current text-accent-1 mr-2"/>Schriesheim bei Heidelberg</div>
     <div class="flex pb-2"><mdi-heart class="fill-current text-accent-1 mr-2"/>Guitar, Pc-Gaming and Web Technologies</div>
     <div class="flex pb-2"><mdi-github class="fill-current text-accent-1 mr-2"/><a href="https://github.com/agaengel" target="_blank">agaengel</a></div>
