@@ -22,18 +22,14 @@ export default {
   >
     <div class="w-full flex justify-end">
       <a href="https://ionos.com" target="_blank">{{ title }}</a>
-      <mdi:minus class="fill-current text-sm" />
-      <a href="https://www.ionos.de/impressum" target="_blank">Imprint</a>
     </div>
   </div>
   <div
       v-else
-      class="flex absolute w-full  py-0.5 px-4 text-sm transform -rotate-90 -bottom-210px -right-470px"
+      class="flex absolute w-full  py-0.5 px-4 text-sm transform -rotate-90 -bottom-275px -right-470px"
   >
     <div class="w-full flex justify-end">
       <a href="https://ionos.com" target="_blank">{{ title }}</a>
-      <mdi:minus class="fill-current text-sm" />
-      <a href="https://www.ionos.de/impressum" target="_blank">Imprint</a>
     </div>
   </div>
 </template>
