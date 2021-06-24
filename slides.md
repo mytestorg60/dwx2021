@@ -12,8 +12,6 @@ info: |
   ## IONOS slide deck developer week Germany 2021
 
   More [DWX](https://www.developer-week.de/)
-
-  Image on the cover [https://commons.wikimedia.org/wiki/File:Back_to_the_Future_film_series_logo.png](https://commons.wikimedia.org/wiki/File:Back_to_the_Future_film_series_logo.png) 
 highlighter: shiki
 colorSchema: 'light'
 src: ./content/cover.md
