@@ -1,7 +1,7 @@
 ---
 layout: two-cols
 background: '#3b9cda'
-class: text-background-gray 
+class: text-background-gray
 ---
 
 # **JAMStack - Promises**
@@ -35,3 +35,16 @@ class: text-background-gray
 />
 
 <IonosLogo left="false" />
+
+<!--
+Da der Server nur das vorgenerierte HTML ... ausliefert gibt es deutlih weniger angriffs Flächen
+
+kein PHP / RUBY / Python prozess
+
+keine Datenbank
+
+
+Die APIs die verwendet werden können natürlich abgesichert werden, wenn das "persönliche" daten pro user sind.
+
+der vorteil ist dabei das sich bei der API auf die autentifizierung konzentriert werden kann.
+-->

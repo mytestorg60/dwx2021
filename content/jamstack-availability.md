@@ -1,7 +1,7 @@
 ---
 layout: two-cols
 background: '#3b9cda'
-class: text-background-gray 
+class: text-background-gray
 ---
 
 # **JAMStack - Promises**
@@ -32,3 +32,9 @@ class: text-background-gray
 />
 
 <IonosLogo left="false" />
+
+<!--
+sehr ähnlich wie bei scale, da im Falle des Jamstack die Laufzeit technologien sehr wenige Komponenten betrifft
+
+auch hier kann mit einen CDN das ganz verlagert werden
+-->

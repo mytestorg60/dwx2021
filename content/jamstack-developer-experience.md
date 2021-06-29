@@ -35,3 +35,23 @@ class: text-background-gray
 />
 
 <IonosLogo left="false" />
+
+<!--
+Sehr abhängig vom Framework, aber der Entwickler kann sich meist ausschlieslich auf das generieren von HTML CSS und JS kümmern.
+
+verifikation ist meist sehr einfach da die HTML Seiten local zu betrachten sind
+
+Freie Techologie wahl ist auch meinst ein Großer Vorteil
+
+die Meisten "modernen" Frameworks unterstüzen mittlerweile einen HTML export
+
+zu nennen sind 
+Reactjs - Gatsby, nextjs
+vuejs - Gridsome, Vuepress, nuxtjs
+scully - angilar
+Hugo - go
+jekyll - Ruby
+Jigsaw - php
+
+
+-->

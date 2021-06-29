@@ -33,4 +33,13 @@ Webpages became more and more dynamic and the html was generated for each reques
 />
 
 <!--
+dynamic kommt ih die Webseiten
+
+* "erstes Porject von mir mit serverside generiert mit perl und einem csv html
+
+die Dynamic wandert auf die server seite
+
+Datenbanken kommen ins spiel
+
+Klasischer LAMP-stack
 -->

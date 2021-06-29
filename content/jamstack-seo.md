@@ -32,3 +32,10 @@ class: text-background-gray
 />
 
 <IonosLogo left="false" />
+
+<!--
+Gerade Google hat in den letzten Jahren viel getan um webseiten die auf JS basieren sinnvoll zu indizieren.
+
+Grundsätlich sollte aber eingentlich jede jamstack seite gut indizier bar sein wenn das Framework einzelne html seiten generiert.
+
+-->

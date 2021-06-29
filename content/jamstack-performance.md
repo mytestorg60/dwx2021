@@ -1,7 +1,7 @@
 ---
 layout: two-cols
 background: '#3b9cda'
-class: text-background-gray 
+class: text-background-gray
 ---
 
 # **JAMStack - Promises**
@@ -32,3 +32,11 @@ class: text-background-gray
 />
 
 <IonosLogo left="false" />
+
+<!--
+der Webserver der die seite ausleifert muss nur die Assets also HTML JS CSS von der Festplatte oder anderem Storrae laden und ausliefern
+
+die gefühlte performance für den Besucher der Seite hat natürlich dann mit dem verwendeten JS und CSS zu tun, aber meist sollte das schneller sein als der Lamp Stack
+
+mit einem CDN kann man die Seite noch mehr beschleunigen
+-->

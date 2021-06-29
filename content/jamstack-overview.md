@@ -1,7 +1,7 @@
 ---
 layout: default
 background: '#3b9cda'
-class: flex flex-col h-full justify-center text-background-gray 
+class: flex flex-col h-full justify-center text-background-gray
 preload: false
 ---
 
@@ -48,4 +48,19 @@ preload: false
 <IonosLogo left="false" />
 
 <!--
+Für was steht denn jetzt Jam stack
+
+Javascript 
+API
+Markup
+
+Idelerweise wird HTML CSS und JS via Continousintegration generiert
+
+z.B. Github Actions oder eine Jenkins ...
+
+Durch die vielen verfügbaren Frameworks ist es schwierig "allemeine Aussagen über Jamstack zu treffen
+
+ein kann im einfachsten dirket geschriebenes HTML sein das alternativ zu ftp deploed wird.
+
+aber auch Komplexe setups wie Gatsby / Gridsome sind möglcih wo die inhalte von APi geladen werden z.B. von einem Headless CMS
 -->

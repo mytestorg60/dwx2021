@@ -1,7 +1,7 @@
 ---
 layout: two-cols
 background: '#3b9cda'
-class: text-background-gray 
+class: text-background-gray
 ---
 
 # **JAMStack - Promises**
@@ -32,3 +32,9 @@ class: text-background-gray
 />
 
 <IonosLogo left="false" />
+
+<!--
+Man muss die Seite ich regelmäßig patchen, da z.B. sicherheits lücken in Wordpress aufgetreten sind
+
+natürlich sollten die Entwickler sich um die aktuallisierung der verwendeten JS frameworks kümmern
+-->

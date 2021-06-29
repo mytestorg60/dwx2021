@@ -35,3 +35,11 @@ class: text-background-gray
 />
 
 <IonosLogo left="false" />
+
+<!--
+Dabei muss man unterscheiden zwischen Countinous Integration und der Runtime
+
+die Runtime ist meist sehr einfach zu wechseln. Einzig zusatz funktionen wie redirect und URL rewrites sind meist provider Abhängig
+
+die CI Plattform zu wechseln hängt start daran was man an CI Schritten verwendet
+-->

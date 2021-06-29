@@ -1,7 +1,7 @@
 ---
 layout: two-cols
 background: '#3b9cda'
-class: text-background-gray 
+class: text-background-gray
 ---
 
 # **JAMStack - Promises**
@@ -32,3 +32,11 @@ class: text-background-gray
 />
 
 <IonosLogo left="false" />
+
+<!--
+das alles Stateless ist ist eine scallierung einfach
+
+im zeifel Loadbalancer und mehrere Apaches / NGNIX
+
+oder einfach einen CDN provider nutzen.
+-->

@@ -35,7 +35,12 @@ h1  {
 />
 
 <IonosLogo left="false" />
+
 <!--
-* editors are using the client to gernate the content.
+* editors are using a browser client to gernate the content.
 * developers focus on the webserver and database
+
+because its so easy to fetch multiple things from the database several queries are performed
+
+Je nach Framework ist dem Entwickler nicht klar wie viele Queries passieren
 -->
